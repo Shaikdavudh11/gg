@@ -1,0 +1,57 @@
+ggpap xpath:
+-----------
+//*[@id="navbarSupportedContent"]/ul/li[1]/a
+
+url = https://www.gamutgurus.com/pay-after-placement-courses
+ 
+       
+
+
+==================================
+contact us xpath:
+---------------
+/html/body/section/div/div/div[1]
+ 
+query xpath:
+----------
+//*[@id="sticky-enquiry-form"]/div[2]/textarea
+  
+email id:
+-------
+id="frm-email"
+
+mobile id:
+---------
+id="frm-mobile"
+ 
+submit query id:
+--------------
+id="sticky-enquirt-btn"
+
+=============================================================================
+=============================================================================
+devops course xpath:
+------------------
+/html/body/section/section[5]/section[1]/div/div[1]/div/div/div[3]/a/div[1]/ul/li[2]
+	download curriculum xpath:
+	-------------------------
+	/html/body/section[1]/section[2]/div[2]/div/div/div[1]/div[3]/div[1]/button
+		email id:
+		--------
+		id ="user-email"
+		
+		phone id:
+		--------
+		id="user-phone"
+
+		download xpath:
+		--------------
+		//*[@id="lead-form"]/button
+
+cloud course xpath:
+------------------
+/html/body/section/section[5]/section[1]/div/div[2]/div/div/div[3]/a/div[1]/ul/li[1]
+ 
+coding course xpath:
+------------------
+/html/body/section/section[5]/section[1]/div/div[3]/div/div/div[3]/a/div[1]/ul/li[1]
